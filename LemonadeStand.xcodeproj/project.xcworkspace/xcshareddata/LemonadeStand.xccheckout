@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99BE3208-B1FD-4500-B759-28F3638B8881</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LemonadeStand</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9212A55CEA45F2B42AE4BF760BDB4D4051CAAB6E</key>
+		<string>https://github.com/danielclopez0/LemonadeStand.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LemonadeStand.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9212A55CEA45F2B42AE4BF760BDB4D4051CAAB6E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danielclopez0/LemonadeStand.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9212A55CEA45F2B42AE4BF760BDB4D4051CAAB6E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9212A55CEA45F2B42AE4BF760BDB4D4051CAAB6E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LemonadeStand</string>
+		</dict>
+	</array>
+</dict>
+</plist>
